@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Mahsa. I am a Ph.D. in data science interested in all things Python & Dta science!
+My name is Mahsa. I own a Ph.D. in data science. I'm interested in all things Python & Data science!
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Microsoft Azure and SQL analytics tools
