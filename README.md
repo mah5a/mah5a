@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🌟 Hi there, I'm Mahsa! 👋 
 My name is Mahsa. I own a Ph.D. in Data Science. I'm interested in all things about Python & Data science!
 
 - :books: I’m currently learning cloud systems, Microsoft Azure and SQL analytics tools & AWS.
